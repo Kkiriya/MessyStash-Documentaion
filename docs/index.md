@@ -1,17 +1,40 @@
-# Welcome to MkDocs
+# Welcome to the documentation of MessyStash
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+For full source code visit [Neptune-MessyStash Github Repo](https://github.com/A26-DA2M/neptune)
 
-## Commands
+## [Sprints](sprints/index.md)
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Here you can find extensive documentation for all of our **Sprints**.
 
-## Project layout
+## [Meetings](meetings/index.md)
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Here you can find extensive documentation for all of our **Meetings**.
+
+## [Architecture](architecture/index.md)
+
+Here you can find extensive documentation for all of our **Architecture decisions** as well as **detailed diagrams** for each building block.
+
+## [Epic](epics/index.md)
+
+Here you can find extensive documentation for all of our **Epics**.
+
+## [Persona](persona/index.md)
+
+Here you can find extensive documentation for all of our **Persona**.
+
+## [User Story](user-story/index.md)
+
+Here you can find extensive documentation for all of our **User Story**.
+
+## [Templates](docs-templates/index.md)
+
+Here you can find all the **templates** to properly document the rest of this wiki.
+
+## [Instructions](instructions/index.md)
+
+Here you can find all the **instructions** for every document that needs to be handed in to the teacher.
+
+## [Remises](remises/index.md)
+
+Here you can find all the **documents** that needs to be handed in to the teacher.
+

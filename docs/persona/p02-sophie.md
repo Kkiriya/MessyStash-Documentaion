@@ -18,7 +18,7 @@ Un persona représente un type d’utilisateur et ses besoins. Ses caractéristi
 | Aisance avec les outils numériques      | **Niveau :** Intermédiaire. Sophie utilise quotidiennement son téléphone pour communiquer, gérer son calendrier et faire des achats en ligne. Elle privilégie les applications faciles à comprendre.     |
 | Appareil ou environnement d’utilisation | Téléphone intelligent iPhone, utilisé principalement à domicile, notamment au sous-sol et dans les espaces de rangement.                                                                                 |
 
-**Photo ou illustration :** ![alt text](/imgs/P02-pfp.jpg)
+**Photo ou illustration :** ![Portrait de Sophie Gagnon](imgs/P02-pfp.jpg)
 
 **Citation qui résume son besoin :**
 

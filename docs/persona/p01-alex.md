@@ -18,7 +18,7 @@ Un persona représente un type d’utilisateur et ses besoins. Ses caractéristi
 | Aisance avec les outils numériques      | **Niveau :** Intermédiaire à avancé. Alex utilise quotidiennement son téléphone intelligent et son ordinateur pour ses études et ses activités personnelles. Il est à l'aise avec les applications mobiles. |
 | Appareil ou environnement d’utilisation | Téléphone intelligent Android, principalement utilisé à domicile lorsqu'il organise ses affaires ou recherche un objet.                                                                                     |
 
-**Photo ou illustration :** ![Portrait d’Alex Tremblau](/imgs/P01-pfp.jpg)
+**Photo ou illustration :** ![Portrait d’Alex Tremblau](imgs/P01-pfp.jpg)
 
 **Citation qui résume son besoin :**
 

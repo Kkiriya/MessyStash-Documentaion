@@ -43,7 +43,13 @@ markdown_extensions:
       alternate_style: true
 
 nav:
-  - Accueil: index.md
+  - Home: index.md
+  - Sprints:
+      - Introduction: sprints/index.md
+  - Meetings:
+      - Introduction: meetings/index.md
+  - Architecture:
+      - Introduction: architecture/index.md
   - Persona:
       - Persona 1 - Alex: persona/p01-alex.md
       - Persona 2 - Sophie: persona/p02-sophie.md
@@ -53,17 +59,15 @@ nav:
       - User Story 1 - Créer boîtes de stockages: user-story/us01-create-storage-box.md
       - User Story 2 - Voir la liste des boîtes de stockages: user-story/us02-view-storage-box.md
       - User Story 3 - Éditier les boîtes de stockages: user-story/us03-edit-storage-box.md
-  - Architecture:
-      - Introduction: architecture/index.md
-  - Réunions:
-      - Introduction: meetings/index.md
+
   - Instructions:
       - DA2M - Atelier de lancement: instructions/DA2M_Atelier_lancement_projet.md
   - Remises:
       - DA2M - Atelier de lancement: remises/DA2M_Rapport_lancement_equipe_neptune.md
   - Templates:
-      - Idée et identité du produit: templates/01_Idee_et_identite_du_produit.md
-      - Persona: templates/02_Persona.md
-      - Epic: templates/03_Epic.md
-      - User Story: templates/04_User_Story.md
-      - Tâche Technique: templates/05_Tache_technique.md
+      - Introduction: templates/index.md
+      # - Idée et identité du produit: templates/01_Idee_et_identite_du_produit.md
+      # - Persona: templates/02_Persona.md
+      # - Epic: templates/03_Epic.md
+      # - User Story: templates/04_User_Story.md
+      # - Tâche Technique: templates/05_Tache_technique.md
