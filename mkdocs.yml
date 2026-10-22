@@ -1,6 +1,11 @@
 site_name: MessyStash
 site_description: Documentation du projet MessyStash
 
+site_url: https://Kkiriya.github.io/MessyStash-Documentaion/
+repo_url: https://github.com/Kkiriya/MessyStash-Documentaion
+repo_name: MessyStash-Documentaion
+edit_uri: edit/main/docs/
+
 theme:
   name: material
   language: fr
