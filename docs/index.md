@@ -1,40 +1,22 @@
 # Welcome to the documentation of MessyStash
 
-For full source code visit [Neptune-MessyStash Github Repo](https://github.com/A26-DA2M/neptune)
+Here we will document the following:
 
-## [Sprints](sprints/index.md)
+- Product Idea & Identity
+- Meeting Notes
+- Sprint Retrospective
+- App Architecture:
+  - Frontend Pages
+  - API Endpoints
+  - Diagrams:
+    - ERD Diagram (for Database)
+    - Class Diagram (for backend)
+    - Flowchart Diagram (for frontend and backend)
+    - Any other diagram that we may need
+- Epics
+- User Story
+- Persona
+- Instructions for specific assignements
+- Assignements
 
-Here you can find extensive documentation for all of our **Sprints**.
-
-## [Meetings](meetings/index.md)
-
-Here you can find extensive documentation for all of our **Meetings**.
-
-## [Architecture](architecture/index.md)
-
-Here you can find extensive documentation for all of our **Architecture decisions** as well as **detailed diagrams** for each building block.
-
-## [Epic](epics/index.md)
-
-Here you can find extensive documentation for all of our **Epics**.
-
-## [Persona](persona/index.md)
-
-Here you can find extensive documentation for all of our **Persona**.
-
-## [User Story](user-story/index.md)
-
-Here you can find extensive documentation for all of our **User Story**.
-
-## [Templates](docs-templates/index.md)
-
-Here you can find all the **templates** to properly document the rest of this wiki.
-
-## [Instructions](instructions/index.md)
-
-Here you can find all the **instructions** for every document that needs to be handed in to the teacher.
-
-## [Remises](remises/index.md)
-
-Here you can find all the **documents** that needs to be handed in to the teacher.
-
+Please use the navbar on the top left to reach each of those documented subjects
